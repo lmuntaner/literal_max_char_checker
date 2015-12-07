@@ -1,0 +1,437 @@
+---
+de:
+  mobile:
+    account:
+      auth:
+        confirm_update: Um Ihr Benutzerkonto zu aktualisieren, müssen Sie Ihr Passwort
+          eingeben. Denken Sie daran, dass sich jede Informationsänderung auch auf
+          Ihren verknüpften Geräten ändern wird.
+        credit_cards:
+          confirm_deletion: Um Ihre Zahlungsmethode zu entfernen, müssen wir Ihr Passwort
+            eingeben. Denken Sie daran sich von allen verknüpften Geräten zu trennen.
+        title: Bitte fortfahren, Ihr Passwort eingeben
+        users:
+          confirm_deletion: Um das Löschen Ihres Benutzerkontos zu bestätigen, müssen
+            Sie Ihr Passwort eingeben. Denken Sie daran, es nicht mit ihren anderen
+            Geräten nutzen werden.
+      go_helpdesk: Gehen Sie zum Hilfe-Center
+      go_helpdesk_link: http://de-hilfe.wuaki.tv
+      library:
+        title: Meine Bibliothek
+      resend_confirmation: Erhalten Sie eine Bestätigungsmail
+      settings:
+        close_session: Sitzung beenden
+        payments:
+          credit_card: Kreditkarte
+          heading_choose: Wählen Sie Ihre primäre Zahlungsmethode
+          heading_update: Aktualisieren Sie Ihre Zahlungsdetails
+          paypal: PayPal
+          paypal_text_paired: Ihr PayPal-Konto</ br><strong>%{email}</ strong> </
+            br>auf Ihrem Konto verbunden Rakuten Wuaki.tv
+          paypal_text_unpaired: Jetzt können Sie mit Ihrem PayPal-Konto zu bezahlen.
+            Verknüpfen Sie Ihr Konto, um PayPal als primäre Zahlungsmethode zu verwenden.
+        preferences:
+          cookies: Cookies von Drittanbietern
+          cookies_check: Wir nutzen unsere eigenen Cookies und Cookies von Drittanbietern,
+            um Ihnen einen besseren Service bieten zu können, welcher an Ihren Surfgewohnheiten
+            angepasst ist.
+          heading: Bearbeiten Sie Ihr Konto
+          parental: Jugendschutz
+        svod:
+          dunning:
+            message: Ihr Abonnement ist noch aktiv. Vor dem Löschen Ihres Benutzerkontos
+              oder der Zahlung, sollten Sie sich von einem Computer aus abmelden.
+            title: 'Sie sind zurzeit bei %{subscription_name} abonniert '
+          fee: 'Betrag:'
+          manage: Wenn Sie Ihr Abonnement bei Selection verwalten möchten, müssen
+            Sie das auf Ihrem Computer tun. Wenn Sie einen Zugang zu einem Computer
+            haben, dann können Sie uns unter hilfe-de@wuaki.tv kontaktieren
+          modality: 'Modus:'
+          more_info: Sehen Sie den Katalog
+          next_fee: 'Nächste Fortsetzungsfolge:'
+          not_subscribed: Sie können den Dienst zugezogen haben
+          not_subscribed_text: Selection Wuaki ist ein Abo-Service, wo Sie eine große
+            Auswahl an Filmen und Serien genießen und dafür  eine monatliche Gebühr
+            pro Monat bezahlen. Sie können alle diese Filme und Serien wo, wie und
+            wann Sie möchten direkt auf Ihrem Handy, Ihrer Konsole, Ihrem PC oder
+            Smart TV schauen.
+          permanency: 'Aufbleiben:'
+          subscribed: Sie sind für <strong>% {svod_name}</strong> abonniert .
+          subscribed_requested_down: Ihr Abonnement für <strong>% {svod_name} </ strong>
+            wurde erfolgreich gelöscht.
+          terms: Vertragsbedingungen
+          unsubscribe_request_still: Sie können bis zum Ende Ihres derzeitigen Kontingents
+            in den Genuss unseres Dienstes kommen.
+        title: Konfiguration
+        user:
+          email_input: Die E-Mail-Adresse ihres Kontos
+          email_label: E-Mail von Ihrem Konto Rakuten Wuaki.tv
+          heading: Bearbeiten Sie Ihre Konto-Daten
+          info: Information
+          password: Kennwort
+          password_input: Hier Ihr aktuelles Passwort
+          password_label: Kennwort
+          password_new_confirm_input: Bestätigt die Änderung
+          password_new_confirm_label: Denken Sie gut daran
+          password_new_input: Hier Ihr neues Passwort
+          password_new_label: Denken Sie daran, mindestens 8 Zeichen
+          phone_input: Geben Sie Ihre Handy
+          phone_label: Ihr Mobiltelefon
+          user_input: Ihr Benutzername
+          user_label: Rakuten ID Ihres Kontos Wuaki.tv
+      wishlist:
+        title: Ich möchte sehen
+    adult_confirmation:
+      i_agree: Ja, ich bin Volljährig
+      message: Sie sind dabei, eine Zone zu betreten, welche sich an ein erwachsenes
+        Publikum richtet. Möchten Sie trotzdem fortfahren?
+      title: Achtung
+    cast:
+      read-more: Lesen Sie weiter
+    errors:
+      apologies: Sie können versuchen, die Seite auf welcher Sie gerade mit Ihrem
+        Browser surfen, zu laden oder direkt zu den anderen Bereichen zu gehen...
+      could_not_find: Wir konnten nicht finden, wonach Sie gesucht haben
+      could_not_load: Es scheint, dass die Seite zu lange zum Laden braucht
+      go_to: GEHE ZU
+      go_to_home: Hauptseite
+      go_to_movies: Filme
+      go_to_support: Hilfe
+      go_to_support_link: http://hilfe-de.wuaki.tv
+      go_to_tvshows: Serie
+      title_404: '404'
+      title_503: '503'
+    exceptions:
+      access_denied: Zugriff verweigert
+      adobe_flash_missing: Sie haben keinen Adobe Flash installiert oder die installierte
+        Version ist zu alt. %{Link}. <br /> Die mindestens erforderliche Version ist
+        18,0, welche Sie hier herunterladen% {unten} können.
+      already_purchased_item: Es scheint, dass dieser Inhalt bereits erworben wurde
+      already_purchased_streamable: Es scheint wir haben dieses Produkt schon gekauft
+        ...
+      billing_address_and_credit_card_required: Um fortzufahren, müssen Sie Ihre Rechnungsadresse
+        und Kreditkarte angeben.
+      billing_address_required: Die Rechnungsadresse ist obligatorisch
+      cant_subscribe_on_dunning_state: Es scheint, als können Sie das Abbonement nicht
+        abschließen, da Sie Zahlschulden haben.
+      cant_subscribe_until_permanency_finished: Sie können uns nicht abonnieren, weil
+        Sie Ihre Periode bis %{permanency_ends_at} begrenzt ist
+      credit_card_and_billing_address_required: Die Karte und die Rechnungsadresse
+        sind Pflichtfelder
+      credit_card_expired: Es tut uns leid, aber es scheint zu Karte abgelaufen
+      credit_card_or_billing_address_not_defined: Es scheint, dass Sie noch nicht
+        Ihre Kreditkarte und / oder Rechnungsadresse eingetragen haben
+      credit_card_required: Um zu mieten, kaufen oder abbonieren müssen Sie eine Kreditkarte
+        hinzufügen
+      credit_card_verification_value_required: Der Sicherheitscode (CVV) der Karte
+        ist obligatorisch
+      from_here: von hier
+      global_id_user: Beim Versuch Ihr Passwort wiederherzustellen, ist ein Fehler
+        aufgetreten. Sie haben wahrscheinlich schon ein Rakuten Konto. <br /> Klicken
+        Sie <u> Passwort für Mitglieder Rakuten </ u> und versuchen Sie es nochmal.
+      invalid_credit_card: Hoppla, es sieht so aus als wäre Ihre Kreditkarte ungültig.
+      invalid_price_policy: Sie können nicht abonnieren, da die Preisgestaltung nicht
+        den Abonnementpläne entsprechen ...
+      linux_users_message: Sie können diese Inhalte aus dem Web auf GNU / Linux-Systemen
+        nicht spielen, aufgrund von Beschränkungen der DRM. Sie werden es aber mit
+        den anderen kompatiblen Geräten oder von OS X oder Windows tun können.
+      login_failed: "Überprüfen Sie Ihre E-Mail-Adresse und Ihr Passwort, denn es
+        scheint als wäre eines der beiden Information falsch."
+      more_info: Weitere Informationen
+      not_found: Resource Not Found
+      not_logged_in: Es scheint, dass Sie nicht angemeldet sind, ...
+      not_playable_from_the_current_device: Nicht abspielbar auf dem aktuellen Gerät.
+      os_not_supported: Die Vervielfältigung von unserer Web-Inhalt mit DRM ist nur
+        kompatibel mit Windows und OS X. <br />Entschuldigung für mögliche Unannehmlichkeiten.
+      player:
+        flash_download_url: http://get.adobe.com/flashplayer/
+        update_info_url: https://hilfe-de.wuaki.tv
+      purchaseable_but_not_playable_from_the_current_device: Achtung! Sie sind dabei,
+        ein Produkt zu kaufen, welches auf diesem Gerät nicht angezeigt werden kann.
+      rakuten_downtime_registrations: Es tut uns leid, aber im Moment können wir nicht
+        neue Benutzer registrieren wegen Wartungsarbeiten. Bitte versuchen Sie es
+        später noch einmal.
+      rakuten_downtime_settings: Es tut uns leid, aber im Moment ist es nicht möglich,
+        Ihre Benutzerdaten oder die Zahlung aufgrund von Wartungsarbeiten zu bearbeiten.
+        Bitte versuchen Sie es später noch einmal.
+      required_cvv: Sie haben eine Sache übersehen. Bitte geben Sie die CVV Ihrer
+        Kreditkarte ein.
+      signed_in_user_required: Sie müssen angemeldet sein, um dies zu tun
+      stream_temporally_unavailable: Die ausgewählten Inhalte sind vorübergehend nicht
+        verfügbar.
+      subscription_inactive: Es scheint, als können sie kein Abonnement abschließen,
+        da der Preis zu gering ist.
+      test_user_required: Sie müssen sich als Benutzer-Test anmelden
+      trailer_not_available: Kein Trailer verfügbar.
+      transactions:
+        timeout: |-
+          Sorry, aber diese Aktion dauert zu lange.
+          Bitte kontaktieren Sie hilfe-de@wuaki.tv, wenn Sie immer noch Probleme mit Ihrem Kauf haben.
+      transaction_failed: UPS! Da lief was falsch, wenn sie versuchen zu tätigen ...
+      update_here: Aktualisieren Sie hier
+      user_dont_subscribed: Es scheint als wären sie kein Abbonent
+      wuaki_error: Hoppla! Nun, es scheint, dass etwas fehlgeschlagen ist. Bitte versuchen
+        Sie es in ein paar Sekunden ...
+      you_already_purchased_this_item: Es scheint, als hätten Sie bereits Inhalt erworben
+        oder Inhalt über Ihr Abonnement enthalten.
+    footer:
+      about: Info
+      help: Hilfe
+      help_link: http://de-hilfe.wuaki.tv
+      privacy: Datenschutz
+      terms: Nutzungsbedingungen
+    genres:
+      title: Alle Genres
+    global:
+      actions:
+        accept: Akzeptieren
+        cancel: Abbrechen
+        continue: Weiter
+        create: Konto erstellen
+        paypal_pair: Verlinken PayPal-Konto
+        paypal_unpair: PayPal-Konto trennen
+        please_wait: Warte ab...
+        recovery: Hol es dir zurück
+        redeem: Gutschein einlösen
+        remove_credit_card: Löschen Sie diese Karte
+        resend: Mail weiterleiten
+        save: Speichern
+        save_and_create: Speichern und Konto erstellen
+        signin: Eingeben
+        update: Aktualisieren
+      company: Rakuten Wuaki.tv
+      episodes: Folgen
+      movies: Filme
+      placeholders:
+        confirm_auth_input: Geben Sie Ihr Passwort ein
+        confirm_auth_label: Kennwort
+        password_recovery_input: Schreiben Sie hier Ihre Konto E-Mail
+        password_recovery_label: E-Mail
+        registration_email_input: E-Mail um auf Ihr Konto zugreifen zu können
+        registration_email_label: Dies wird Ihre Rakuten Konto sein
+        registration_password2_input: Geben Sie Ihr Passwort erneut ein
+        registration_password2_label: Bestätige dein Passwort
+        registration_password_input: Passwort (Mindestens 8 Zeichen)
+        registration_password_label: Kennwort
+        resend_confirmation_input: Schreiben Sie hier Ihre Konto-E-Mail
+        resend_confirmation_label: E-Mail
+        signin_email_input: Geben Sie Ihre Konto-E-Mail ein
+        signin_email_label: Ihr Rakuten Wuaki.tv Zugang
+        signin_password_input: Geben Sie Ihr Passwort ein
+        signin_password_label: Passwort
+        voucher_input: Geben Sie Ihren Gutscheincode ein
+        voucher_label: Gutscheincode
+      seasons: Staffeln
+      tvshows: Serie
+    grid:
+      empty_list:
+        text:
+          content: Sie können im Hauptmenü Filme nach Genres auswählen, um Inhalte
+            zu finden die Ihrem Geschmack entsprechen oder um eine etwas genauere
+            Suche durchzuführen.
+          library: Alle Filme, Staffeln und Episoden die Sie kaufen und leihen werden
+            sofort Ihrer Bibliothek hinzugefügt, welche sich daraufhin automatisch
+            sofort mit allen genutzten Geräten synchronisiert.
+          wishlist: Füge Filme, Serienstaffeln und einzelne Folgen Ihrer Wunschliste
+            hinzu um alle Titel leichter zugänglich zu haben. Und mach dir keine Sorgen,
+            Ihr Wunschzettel wird in allen Ihren Geräten synchronisiert werden.
+        title:
+          content:
+            default: Hoppla, es gibt keinen Inhalt zu zeigen
+          library:
+            episodes: Hoppla, Sie haben keine Folge in Ihrer Bibliothek
+            movies: Hoppla, Sie müssen nicht auf Ihrer Bibliothek haben kein Film
+            seasons: Hoppla, Sie haben keine Staffel in Ihrer Bibliothek
+          wishlist:
+            episodes: 'Hoppla, Sie haben keine Folge auf Ihrer Wunschliste '
+            movies: Hoppla, Sie haben keinen Film auf Ihrem Wunschzettel.
+            seasons: 'Hoppla, Sie haben keine Staffel auf Ihrer Wunschliste '
+      view_all: Alles sehen
+    interactions:
+      add_to_wishlist_: Zur Merkliste hinzufügen
+      add_to_wishlist_false: Zur Merkliste hinzufügen
+      add_to_wishlist_true: Zur Merkliste Löschen
+    javascript:
+      cookies:
+        accept: "Übernehmen und fortfahren"
+        message: Wir verwenden eigene und Cookies von Drittanbietern, um Ihre Benutzererfahrung
+          und die Navigation zu verbessern. Wenn Sie irgendwelche Fragen haben, dann
+          lesen Sie unsere Datenschutzerklärung.
+      deeplinking:
+        error: Es tut uns leid, aber im Moment haben wir keine systemeigene Anwendung
+          für Ihr Gerät.
+      loader:
+        loading_trailer:
+          message: 
+          title: Wird geladen…
+        rgwp:
+          message: Wir leiten Sie zum Service der Passwort-Wiederherstellung. Bitte
+            warten Sie einen Moment...
+          title: Sie haben ein Rakuten Konto
+        saving:
+          message: '"Wenn meine Berechnungen richtig sind und diese Schönheit 140
+            Stundenkilometern erreicht, dann werden Sie etwas total wunderbares sehen."
+            -Emmet Brown 1985'
+          title: Warten Sie einige Sekunden, senden wir Ihre Daten
+        transaction:
+          message: Dieser Vorgang kann einige Sekunden lang dauern. Lange genug um
+            Ihr Popcorn aus der Mikrowelle zu holen.
+          title: Wir bearbeiten die Transaktion
+      payvault:
+        button_confirm: Bestätigen
+        button_save: "Änderungen speichern"
+        button_wait: Warte...
+        invalid_cc: Hoppla, es sieht so aus als wäre Ihre Kreditkarte ungültig.
+      registrations:
+        button_register: Konto erstellen
+      wishlist:
+        add_to_wishlist_: Zur Merkliste hinzufügen
+        add_to_wishlist_false: Zur Merkliste hinzufügen
+        add_to_wishlist_true: Lösche es Merkliste
+        error: Beim Entfernen dieses Inhalts aus Ihrer Wunschliste ist ein Problem
+          aufgetreten. Versuchen Sie es erneut in ein paar Sekunden.
+        success: Perfect! Sie wollen einfach nur, um diesen Inhalt zu sehen hinzufügen
+      wuaki_error: Hoppla! Es scheint, dass etwas fehlgeschlagen ist. Bitte versuchen
+        Sie es in ein paar Sekunden nochmal...
+    labels:
+      seasons: "%{count} Staffeln"
+    menu:
+      account: Mein Wuaki
+      home: Zuhause
+      movies: Filme
+      open: Menü
+      signin_signup: Anmelden oder Registrieren
+      tvshows: Serien
+    metadata:
+      cast: Vertrieb
+      directors: Regisseur
+      genres: Genres
+    movies:
+      view_related: "Ähnliche Filme"
+    pages:
+      impressum:
+        title: "Über Rakuten Wuaki.tv"
+    password_recovery:
+      message: Mit der Eingabe Ihrer E-Mail-Adresse, mit der Sie Ihr Konto bei Wuaki.tv
+        registriert haben, erhalten Sie eine E-Mail mit welcher Sie ihr Passwort ganz
+        leicht ändern können.
+      title: Erinnern Sie sich oder haben Sie Ihr Passwort vergessen?
+    payments:
+      credit_card: Kreditkarte
+      credit_card_form:
+        cvc_input: "***"
+        cvc_label: CVV
+        holdername_input: Karteninhaber
+        holdername_label: 'Beispiel: Jose Garcia'
+        month_input: '01'
+        month_label: Monat
+        number_input: 0000 0000 0000 0000
+        number_label: Kartennummer
+        year_input: '16'
+        year_label: Jahr
+      paypal: PayPal
+      paypal_message: Jetzt können Sie mit Ihrem PayPal-Konto bezahlen. Melden Sie
+        sich mit Ihrem PayPal-Konto an, um PayPal als Standardzahlungsmethode zu verwenden.
+      title: Fügen Sie eine Zahlungsmethode
+    playback:
+      watch_on_app: Schauen Sie in der App
+      watch_trailer: Trailer schauen
+    purchases:
+      app_claim: Sie können den Inhalt direkt auf Ihrem Handy öffnen oder auf einem
+        unserer kompatiblen Geräten genießen.
+      bought: Du hast diesen Inhalt gekauft
+      buying: Digitale Kauf
+      credit_card: "**** **** **** %{digits}"
+      currently_buy: Sie kaufen gerade
+      currently_rent: Sie leihen
+      episode_not_available: Der Kauf oder die Vermietung dieser Episode ist nicht
+        separat erhältlich.
+      expiration: Läuft ab in %{time}
+      from: von %{price}
+      not_available: Inhalt nicht verfügbar.
+      paying_with: Bezahlen mit
+      paypal: PayPal %{email}
+      purchase: Kaufen
+      rental: Leihen
+      svod:
+        already: Dieser Inhalt ist %{plan} und Sie haben die Dienstleistung bereits
+          in Auftrag gegeben. Also können Sie es sofort genießen.
+        only: Inhalt nur %{plan}
+        on_plan: In Selection
+        try: Probieren Sie es kostenlos!
+      taxes: VAT mitinbegriffen
+      watch_for_free: Live schauen
+    registrations:
+      claim: Mit ihrer Anmeldung bei Wuaki.tv erstellen Sie ebenfalls ein Konto auf
+        Rakuten, mit dem Sie auf verschiedene Dienste mit demselben Konto zugreifen
+        können.
+      paypal:
+        not_paired: "¡Sie sind einen Schritt entfernt! Ihre Rakuten Wuaki.tv Konto
+          wurde erstellt, aber wir waren nicht in der Lage, Ihre PayPal Details mit
+          dem Konto zu verbinden. Sie können Ihre PayPal-Details später hinzufügen.
+          Gehen Sie hierfür zu: Rakuten Wuaki.tv> Einstellungen> Zahlungsdetails.
+          Um das neue Konto zu bestätigen folgen Sie bitte den Anweisungen in der
+          Bestätigungsmail, die wir Ihnen geschickt haben. Wenn Sie nach ein paar
+          Stunden keine Bestätigungsmail in Ihrem Posteingang erhalten haben, dann
+          überprüfen Sie bitte Ihren Spam-Ordner."
+        paired: Sie sind nur einen Schritt entfernt! Ihr Rakuten Wuaki.tv Konto wurde
+          erstellt und mit Ihren PayPal-Details verbunden. Um das neue Konto zu bestätigen
+          folgen Sie bitte den Anweisungen in der Bestätigungsmail, welche wir Ihnen
+          geschickt haben. Wenn Sie die Bestätigungsmail nach ein paar Stunden nicht
+          in Ihrem Posteingang erhalten haben, dann überprüfen Sie bitte Ihren Spam-Ordner.
+      signed_up_but_unconfirmed: Du bist fast fertig! Bestätigen Sie Ihr neues Konto,
+        um fortzufahren. Folgen Sie hierfür den Anweisungen in der Bestätigungsmail,
+        die wir Ihnen geschickt haben. Wenn nach ein paar Stunden keine Bestätigungsmail
+        in Ihrem Posteingang erhalten haben, überprüfen Sie bitte Ihren Spam-Ordner.
+    resend_confirmation:
+      message: Geben Sie uns die E-Mail-Adresse, mit welcher Sie Ihr Konto registriert
+        haben und wir werden Ihnen Ihre Buchungsbestätigung nochmal schicken, sodass
+        Sie Rakuten Wuaki.tv reibungslos verwenden können. Denken Sie daran, auch
+        den Spam-Posteingang zu überprüfen.
+      title: Sie nicht, Ihren Account bestätigt?
+    search:
+      placeholder: Suche nach Titel, Schauspieler oder Regisseur
+      results: 'Ergebnisse für: "% {query}"'
+    svod:
+      subscribe:
+        blocked: Engagement zu bleiben
+        fee_for: Genießen Sie
+        fee_special: zum Sonderpreis
+        month: Monat
+        monthly_fee: Monatliche Zahlung
+        months: Monate
+        no_blocked: Kompromisslose Aufenthalt
+        no_promo_fee_1: Wir können nicht bieten die ursprüngliche Werbegebühr, weil
+          es weniger als
+        no_promo_fee_2: Monate, die Sie niedrigen gab
+        no_set_up_fee_amount: 0,00 €
+        set_up_fee: Hohe Gebühr
+        subscribing_to: Sie melden sich auf
+        yearly_fee: Jahresgebühr
+      subscribed:
+        claim1: Sie können jetzt ohne Wartezeiten, Stunden und Stunden bester Unterhaltung
+          mit einer Auswahl an Filmen und Serien genießen.
+        claim2: Genießen Sie es jederzeit, überall und auf allen unterstützten Geräten.
+        plan: Selection
+        welcome: Willkommen bei
+    terms:
+      update: Wir haben unsere Rechtstexte aktualisiert. Sie müssen akzeptieren, um
+        fortzufahren.
+    tvshows:
+      episodes:
+        number: Episode %{number}
+      seasons:
+        all_episodes: Alle Episoden
+      view_all_episodes: Folgen
+      view_tvshow: Schaue die ganze Serie
+    vouchers:
+      have_one: Haben Sie einen Gutschein oder Rabatt-Coupon?
+      redeem: Gutschein einlösen
+      redeeming:
+        title: Einen Gutschein einlösen für
+    welcome:
+      text_1: Genießen Sie den einfachsten und schnellsten Weg zu allen Neuveröffentlichungen,
+        Tausende von Filmen und Ihre Lieblings-Serien.
+      text_2: Mieten, kaufen oder Selection abbonieren, Sie entscheiden wie und wann
+        Sie die beste Unterhaltung auf allen kompatiblen Geräten genießen.
+      title: Ihr Konto wurde erfolgreich bestätigt!
